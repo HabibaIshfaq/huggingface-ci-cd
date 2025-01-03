@@ -1,2 +1,5 @@
 transformers==4.34.0
 huggingface_hub
+torch
+flask
+pytest
